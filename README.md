@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joagomezur29@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📄 Know about my experiences [https://www.linkedin.com/jgmzur/](https://www.linkedin.com/jgmzur/)
 
 - ⚡ Fun fact **i'm a political scientist just learning everyday about this tech world**
 
