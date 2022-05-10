@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a discord Bot**
 
-- 🌱 I’m currently learning **CCS, JAVA, Django and backend technologies**
+- 🌱 I’m currently learning **CSS, HTML, JAVA, Django and backend technologies**
 
 - 👯 I’m looking to collaborate on **Phyton and Django projects**
 
