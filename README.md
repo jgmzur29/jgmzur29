@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **a discord Bot**
 
-- 🌱 I’m currently learning **CSS, HTML, JAVA, Django and backend technologies**
+- 🌱 I’m currently learning **CSS, HTML, JAVA, REACT and some backend technologies**
 
-- 👯 I’m looking to collaborate on **Phyton and Django projects**
+- 👯 I’m looking to collaborate on ** JS and ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://jgmzur29.github.io./](https://jgmzur29.github.io./)
-
-- 💬 Ask me about **Pyhton and DataScience**
 
 - 📫 How to reach me **joagomezur29@gmail.com**
 
