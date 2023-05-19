@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate data analyst from Colombia</h3>
 
-- 🔭 I’m currently working on **a discord Bot**
+- 🔭 I’m currently working on **Analysis projects**
 
 - 🌱 I’m currently learning **CSS, HTML, JAVA, REACT and some backend technologies**
 
-- 👯 I’m looking to collaborate on ** JS and ReactJS**
+- 👯 I’m looking to collaborate on **Python and Data projects**
 
 - 👨‍💻 All of my projects are available at [https://jgmzur29.github.io./](https://jgmzur29.github.io./)
 
